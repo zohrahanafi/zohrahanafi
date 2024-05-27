@@ -11,14 +11,13 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 ---
 <h2 align="center"><b>🙋‍♀️ About me</b></h2>
-→  :mortar_board: Completed a BS in computer science and an MS in Intelligent Computer System Engineering from <a href ="https://www.univ-alger.dz"> University of Algiers 1 </a>.
+→  :mortar_board: Completed a BS in computer science and an MS in Intelligent Computer System Engineering from <a href ="https://www.univ-alger.dz/?p=6161&lang=en"> University of Algiers 1 </a>.
 
-→ :mortar_board: Finished an MS in Information Systems Technology at <a href ="https://www.wilmu.edu/">Wilmington University</a>
+→ :mortar_board: Completed an MS in Information Systems Technology at <a href ="https://www.wilmu.edu/">Wilmington University</a>
 
 → :camera: Passionate about travel and photography, constantly seeking opportunities to explore new places and capture memories
 
-→ :computer: Enjoys learning and implementing various deep learning models, and constantly seeking to improve skills in this area.
-
+→ :computer: Enjoys learning and solving diverse problems across various domains to facilitate and enhance everyday life, constantly seeking to improve skills and knowledge in these areas.
 
 ---
 <h2 align="center"><b>🤝 Connect with me</b></h2>
