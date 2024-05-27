@@ -13,7 +13,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 <h2 align="center"><b>🙋‍♀️ About me</b></h2>
 →  :mortar_board: Completed a BS in computer science and an MS in Intelligent Computer System Engineering from <a href ="https://www.univ-alger.dz"> University of Algiers 1 </a>.
 
-→ :mortar_board: Currently pursuing an MS in Information Systems at <a href ="https://www.wilmu.edu/">Wilmington University</a>
+→ :mortar_board: Finished an MS in Information Systems Technology at <a href ="https://www.wilmu.edu/">Wilmington University</a>
 
 → :camera: Passionate about travel and photography, constantly seeking opportunities to explore new places and capture memories
 
